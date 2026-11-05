@@ -112,7 +112,7 @@ Si deseas ejecutar el proyecto localmente:
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/TU-USUARIO/monstruido.git
+   git clone https://github.com/Betzy-1103/monstruido.git
    ```
 
 2. Accede a la carpeta:
